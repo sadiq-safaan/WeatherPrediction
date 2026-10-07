@@ -7,7 +7,6 @@ Predicts rain rate in mm/hr and rain probability (>= 1 mm/hr) at 1/3/5 minute ho
 `train3.py`: Trains the DoubleEncoder MLP models and saves weights and scalers
 `predict.py`: Runs inference on a parquet file
 `preprocess3.py`: Data processing pipeline shared by train and predict
-`presentation.pdf`: Methodology, analysis, and results
 
 
 ## Setup
