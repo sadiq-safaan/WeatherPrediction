@@ -1,6 +1,6 @@
 # Rainfall Forecasting
 
-A fun experiment in predicting rain rate in mm/hr and rain probability (>= 1 mm/hr) at 1/3/5 minute horizons using GOES and HRRR data.
+A fun experiment in predicting rain rate in mm/hr and rain probability (>= 1 mm/hr) at 1/3/5 minute horizons using GOES and HRRR data.  Features a bespoke DoubleEncoder MLP architecture that seperately processes rainfall and cloud data.
 
 ## Files
 
